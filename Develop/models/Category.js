@@ -3,7 +3,6 @@ const { Model, DataTypes } = require("sequelize");
 // import our database connection from config.js
 const sequelize = require("../config/connection.js");
 
-
 // Initialize Product model (table) by extending off Sequelize's Model class
 class Category extends Model {}
 Category.init(
@@ -12,7 +11,7 @@ Category.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
-      initialAutoIncrement: true,
+      autoIncrement: true,
     },
     category_name: {
       type: DataTypes.STRING,
@@ -25,7 +24,6 @@ Category.init(
     freezeTableName: true,
     underscored: true,
     modelName: "category",
-  }
-);
+  });
 
 module.exports = Category;
