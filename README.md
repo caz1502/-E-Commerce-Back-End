@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
 
 # Updated Portfolio Page-2
-Live Application Link 👀 
+Live Application Link 👀  https://caz1502.github.io/-E-Commerce-Back-End/
 
 ---
 ## The Task
@@ -34,11 +34,13 @@ THEN I am able to successfully create, update, and delete data in my database
 ---
 ## Description
 ```
-add text here
+Back End Application to GET,CREATE, AMEND and DELETE via API requests
 ```
 ---
 ## Media
-![Tech-Blog]()
+Application in Action ... [Youtube video](https://www.youtube.com/watch?v=zxgrWckxfS0)
+![DB Schema](./Assets/Images/Schema.PNG)
+![Seeded](./Assets/Images/DB_Seeded.PNG)
 
 ---
 ## Apps 
@@ -52,8 +54,8 @@ add text here
    *  express
    *  mysql2
    *  sequelize  
-*  Canva
 *  Windows 10 photo editor
+*  SnagIt
 
 ---
 ## Languages
