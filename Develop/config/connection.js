@@ -26,8 +26,9 @@ const sequelize = new Sequelize(
     host: "localhost",
     dialect: "mysql",
     dialectOptions: {
-      decimalNumbers: true,
+      decimalNumbers: true
     },
+    
   }
 );
 
