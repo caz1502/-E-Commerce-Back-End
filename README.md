@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
 
 # Updated Portfolio Page-2
-Live Application Link 👀  https://caz1502.github.io/-E-Commerce-Back-End/
+Live Application Link 👀  https://caz1502.github.io/-E-Commerce-Back-End
 
 ---
 ## The Task
